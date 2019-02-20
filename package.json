@@ -1,7 +1,7 @@
 {
   "name": "promises_group",
   "version": "1.0.0",
-  "description": "It a class build for manage multiple promise.",
+  "description": "It is a class builded for manage multiple promise.",
   "main": "promises_group.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
